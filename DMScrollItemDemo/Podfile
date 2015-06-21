@@ -1,0 +1,3 @@
+platform :ios, '7.0'
+
+pod 'DMGraduallyView', :git => 'https://github.com/caojun/DMGraduallyView.git'

@@ -1,0 +1,19 @@
+PODS:
+  - DMGraduallyView (0.0.1)
+
+DEPENDENCIES:
+  - DMGraduallyView (from `https://github.com/caojun/DMGraduallyView.git`)
+
+EXTERNAL SOURCES:
+  DMGraduallyView:
+    :git: https://github.com/caojun/DMGraduallyView.git
+
+CHECKOUT OPTIONS:
+  DMGraduallyView:
+    :commit: 123e06404a1327019c5958b96e0eb0b928aaf58f
+    :git: https://github.com/caojun/DMGraduallyView.git
+
+SPEC CHECKSUMS:
+  DMGraduallyView: fbdb8d4b9927c0cbe8010617d0be405753f8a4e3
+
+COCOAPODS: 0.37.2
