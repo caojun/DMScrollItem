@@ -650,6 +650,8 @@ static UIColor *scrollItemDumpColor(UIColor *color)
     {
         [btn removeFromSuperview];
     }
+    
+    [self.m_itemBtnArray removeAllObjects];
 }
 
 - (void)itemButtonArrayCreate
