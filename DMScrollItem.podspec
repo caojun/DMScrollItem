@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "DMScrollItem"
   s.version      = "0.0.2"
-  s.summary      = ""
+  s.summary      = "左右滚动项"
 
   s.description  = <<-DESC
                    A longer description of DMScrollItem in Markdown format.
